@@ -5,6 +5,10 @@ South Korea
 preservation 
 Copyright c by L.S.K 2020
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 This is crazy
 >>>>>>> parent of a17824b... deleted crazy
+=======
+
+>>>>>>> master
