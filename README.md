@@ -5,3 +5,4 @@ It is locaed in South Korea.
 
 
 It is more than 1000 years old.
+It was built in Koryu kingdom. 
